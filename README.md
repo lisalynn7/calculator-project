@@ -1,2 +1,3 @@
-# INST126
-Projects for UMD INST126 Fall 2020
+# Calculator Project
+## Overview
+This project was created for INST126: Introduction to Programming for Information Science (Fall 2020)
