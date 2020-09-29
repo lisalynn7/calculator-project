@@ -6,3 +6,6 @@ To create this project, I converted a provided flowchart into a working Python p
 ## Motivation :hatching_chick:
 This project was created for INST126: Introduction to Programming for Information Science (Fall 2020)
 
+## Authors
+Walesia Robinson II
+[@lisalynn7] (http://github.com/lisalynn7)
