@@ -3,6 +3,6 @@ To create this project, I converted a provided flowchart into a working Python p
 
 **Special Notes**: This program assumes integer input and guides the user to prevent exceptions not handled (ie. division by zero during the division operation). 
 
-## Motivation :rocket:
+## Motivation :hatching_chick:
 This project was created for INST126: Introduction to Programming for Information Science (Fall 2020)
 
