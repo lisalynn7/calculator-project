@@ -8,4 +8,4 @@ This project was created for INST126: Introduction to Programming for Informatio
 
 ## Authors
 Walesia Robinson II
-[@lisalynn7] (http://github.com/lisalynn7)
+[@lisalynn7](http://github.com/lisalynn7)
